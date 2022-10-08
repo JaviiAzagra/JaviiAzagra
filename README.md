@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Javi Azagra</h1>
 <h3 align="center">Full Stack Developer student</h3>
 
-<img src="https://64.media.tumblr.com/61b42677879a0be38fb2779459b0f456/tumblr_nzv60uVwxB1uo5tbio1_1280.gifv" alt="gifv">
+<img src="https://64.media.tumblr.com/e20d3ba1249021394151372cbd33ea5b/tumblr_p7cdimgJnD1uo5tbio1_1280.gifv" alt="gif">
 
 <div align="center">
   
 📂 All my projects [here](https://github.com/JaviiAzagra?tab=repositories)
 
 📫 How to reach me **javiazagra12@gmail.com**
+  
 </div>
 
 <h3 align="center">Connect with me:</h3>
