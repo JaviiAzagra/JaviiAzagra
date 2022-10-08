@@ -20,11 +20,11 @@
 <a href="https://www.linkedin.com/in/javier-azagra-garc%C3%ADa-33b41a219/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier azagra garcía" height="30" width="40" /></a>
 <a href="https://instagram.com/12jav1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="12jav1" height="30" width="40" /></a>
 </p>
-
+ㅤ
 <div align="center">
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiazagra&show_icons=true&locale=en&layout=compact" alt="javiiazagra" /></p>
-
+ㅤ
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javiiazagra&show_icons=true&locale=en" alt="javiiazagra" /></p>
   
 </div>
