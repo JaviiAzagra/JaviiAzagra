@@ -5,7 +5,7 @@
 </div>
 
 
-<div align="center">
+
   ㅤ
 🌱 I'm currently learning **HTML, CSS, JAVASCRIPT** 
 
@@ -13,8 +13,6 @@
 
 📫 How to reach me **javiazagra12@gmail.com**
   
-  
-</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
