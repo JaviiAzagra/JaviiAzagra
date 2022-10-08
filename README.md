@@ -3,16 +3,16 @@
 <div align="center">
 <img alt ="cars" src="https://64.media.tumblr.com/22d67206d203650a042ef4ab8e30f05a/e8c83f40a2d34f8f-24/s500x750/ff8b3cd9825a505fba977d507e471d42c6224539.gif">
 </div>
+ㅤ
+<div align="center">
 
+ 🌱 I'm currently learning **HTML, CSS, JAVASCRIPT** 
 
+ 📂 All my projects [here](https://github.com/JaviiAzagra?tab=repositories) 
 
-  ㅤ
-🌱 I'm currently learning **HTML, CSS, JAVASCRIPT** 
-
-📂 All my projects [here](https://github.com/JaviiAzagra?tab=repositories)
-
-📫 How to reach me **javiazagra12@gmail.com**
+ 📫 How to reach me **javiazagra12@gmail.com**
   
+</div>  
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
