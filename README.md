@@ -7,7 +7,8 @@
 
 <div align="center">
   ㅤ
-  
+🌱 I'm currently learning **HTML, CSS, JAVASCRIPT** 
+
 📂 All my projects [here](https://github.com/JaviiAzagra?tab=repositories)
 
 📫 How to reach me **javiazagra12@gmail.com**
