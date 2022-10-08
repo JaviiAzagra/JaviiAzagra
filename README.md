@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Javi Azagra</h1>
 <h3 align="center">Full Stack Developer student</h3>
-
+<div align="center">
+<img alt ="cars" src="https://64.media.tumblr.com/22d67206d203650a042ef4ab8e30f05a/e8c83f40a2d34f8f-24/s500x750/ff8b3cd9825a505fba977d507e471d42c6224539.gif">
+</div>
 <div align="center">
   
 📂 All my projects [here](https://github.com/JaviiAzagra?tab=repositories)
