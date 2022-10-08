@@ -3,9 +3,6 @@
 
 <div align="center">
   
-🔭 I’m currently studying on **Upgrade Hub**
-
-  
 📂 All my projects [here](https://github.com/JaviiAzagra?tab=repositories)
 
 📫 How to reach me **javiazagra12@gmail.com**
