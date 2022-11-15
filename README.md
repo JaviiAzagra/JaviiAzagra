@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javi Azagra</h1>
 <h3 align="center">Full Stack Developer student</h3>
 <div align="center">
-<img alt ="cars" src="https://64.media.tumblr.com/22d67206d203650a042ef4ab8e30f05a/e8c83f40a2d34f8f-24/s500x750/ff8b3cd9825a505fba977d507e471d42c6224539.gif">
+<img alt ="cars" src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif">
 </div>
 ㅤ
 <div align="center">
