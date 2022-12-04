@@ -26,9 +26,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=javiiazagra&show_icons=true&locale=en&theme=dark" alt="javiiazagra" /></p>
 </div>
 <div>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javiiazagra&label=Profile%20views&color=0e75b6&style=flat" alt="javiiazagra" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=javiiazagra&label=Profile%20views&color=0e75b6&style=flat" alt="javiiazagra" /> </p>
 <p align="left">
 </p>
 
