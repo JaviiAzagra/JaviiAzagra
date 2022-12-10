@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javi Azagra</h1>
 <h3 align="center">Full Stack Developer student</h3>
 <div align="center">
-<a href="https://github.com/tomondre](https://github.com/JaviiAzagra?tab=repositories"><img src="gif.svg"></a>
+<a href="https://github.com/JaviiAzagra?tab=repositories"><img src="gif.svg"></a>
 </div>
 ㅤ
 <div align="center">
