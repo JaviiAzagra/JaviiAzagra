@@ -22,8 +22,8 @@
 ㅤ
 <div align="center">
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiazagra&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="javiiazagra" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=javiiazagra&show_icons=true&locale=en&theme=dark" alt="javiiazagra" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiazagra&show_icons=true&locale=en&layout=compact&langs_count=8&theme=great-gatsby" alt="javiiazagra" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=javiiazagra&show_icons=true&locale=en&theme=great-gatsby" alt="javiiazagra" /></p>
 </div>
 <div>
 
