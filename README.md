@@ -1,36 +1,13 @@
-<h1 align="center">Hi 👋, I'm Javi Azagra</h1>
-<h3 align="center">Full Stack Developer student</h3>
-<div align="center">
-<a href="https://github.com/JaviiAzagra?tab=repositories"><img src="gif.svg"></a>
-</div>
-ㅤ
-<div align="center">
-
- 🌱 I'm currently learning **HTML, CSS, JAVASCRIPT** 
-
- 📂 All my projects [here](https://github.com/JaviiAzagra?tab=repositories) 
-
- 📫 How to reach me **javiazagra12@gmail.com**
-  
-</div>  
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/javier-azagra-garc%C3%ADa-33b41a219/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier azagra garcía" height="30" width="40" /></a>
-<a href="https://instagram.com/12jav1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="12jav1" height="30" width="40" /></a>
-</p>
-ㅤ
-<div align="center">
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiazagra&show_icons=true&locale=en&layout=compact&langs_count=8&theme=great-gatsby" alt="javiiazagra" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=javiiazagra&show_icons=true&locale=en&theme=great-gatsby" alt="javiiazagra" /></p>
-</div>
-<div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=javiiazagra&label=Profile%20views&color=0e75b6&style=flat" alt="javiiazagra" /> </p>
-<p align="left">
-</p>
-
-</div>
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/JaviiAzagra)
+[<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=9b51e0" />](https://gitlab.com/JaviAzagra)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/12jav1) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/javier-azagra-garc%C3%ADa/)
 
 
+
+- [![BR](https://b-r.io/favicons/favicon-16x16.png)](https://javierazagra.com/) 
+Checkout my [portfolio](https://javierazagra.com/) website!
+- 🏢 Software Engineer (Full Stack) [@Hines](https://www.hines.com/), in Houston TX
+- 🧰 I build with: `JavaScript` `React`, `Vite.js`, `Angular`, `Node` ...
+- ⚡ I enjoy travel, driving, sports, and programming :)
+- 📫 Reach out to me: javiazagra12@gmail.com
