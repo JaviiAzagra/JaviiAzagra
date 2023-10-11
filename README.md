@@ -5,8 +5,7 @@
 
 
 
-- [![BR](https://b-r.io/favicons/favicon-16x16.png)](https://javierazagra.com/) 
-Checkout my [portfolio](https://javierazagra.com/) website!
+- Checkout my [portfolio](https://javierazagra.com/) website!
 - 🏢 Software Engineer (Full Stack) [@Hines](https://www.hines.com/), in Houston TX
 - 🧰 I build with: `JavaScript` `React`, `Vite.js`, `Angular`, `Node` ...
 - ⚡ I enjoy travel, driving, sports, and programming :)
