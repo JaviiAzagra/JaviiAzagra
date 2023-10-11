@@ -6,7 +6,7 @@
 
 
 - Checkout my [portfolio](https://javierazagra.com/) website!
-- 🏢 Software Engineer (Full Stack) [@Hines](https://www.hines.com/), in Houston TX
+- 🏢 Software Engineer (Full Stack), in Madrid ESP
 - 🧰 I build with: `JavaScript` `React`, `Vite.js`, `Angular`, `Node` ...
 - ⚡ I enjoy travel, driving, sports, and programming :)
 - 📫 Reach out to me: javiazagra12@gmail.com
