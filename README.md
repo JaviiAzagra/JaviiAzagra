@@ -15,7 +15,7 @@
 </br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javiiazagra&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border&show_icons=true&locale=en" alt="javiiazagra" /></p>
 </br>
-<p  align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=javiiazagra&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="javiiazagra" /></p>
+<p  align="center">&nbsp;<img src="https://streak-stats.demolab.com/?user=JaviiAzagra&theme=monokai-metallian&hide_border=true" alt="javiiazagra" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=javiiazagra&label=Profile%20views&color=0e75b6&style=flat" alt="javiiazagra" /> </p>
 <p align="left">
