@@ -15,7 +15,7 @@
 </br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javiiazagra&theme=one_dark_pro&show_icons=true&locale=en" alt="javiiazagra" /></p>
 </br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JaviiAzagra&theme=onedark" alt="GitHub Streak" /></a>
+<p  align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=JaviiAzagra&theme=onedark" alt="javiiazagra" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=javiiazagra&label=Profile%20views&color=0e75b6&style=flat" alt="javiiazagra" /> </p>
 <p align="left">
