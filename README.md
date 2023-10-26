@@ -11,9 +11,9 @@
 - ⚡ I enjoy travel, driving, sports, and programming :)
 - 📫 Reach out to me: javiazagra12@gmail.com
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiazagra&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border&show_icons=true&locale=en&layout=compact" alt="javiiazagra" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiazagra&theme=react&hide_border=true&bg_color=000000&title_color=FF8000&icon_color=FF8000&hide_border&show_icons=true&locale=en&layout=compact" alt="javiiazagra" /></p>
 </br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javiiazagra&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border&show_icons=true&locale=en" alt="javiiazagra" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javiiazagra&theme=react&hide_border=true&bg_color=000000&title_color=FF8000&icon_color=FF8000&hide_border&show_icons=true&locale=en" alt="javiiazagra" /></p>
 </br>
 <p  align="center">&nbsp;<img src="https://streak-stats.demolab.com/?user=JaviiAzagra&theme=monokai-metallian&hide_border=true" alt="javiiazagra" /></p>
 
