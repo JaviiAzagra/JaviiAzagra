@@ -14,24 +14,24 @@
 - ⚡ I enjoy travel, driving, sports, and programming :)
 - 📫 Reach out to me: javiazagra12@gmail.com
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiazagra&theme=react&hide_border=true&bg_color=141514&title_color=FF8000&icon_color=FF8000&hide_border&show_icons=true&locale=en&layout=compact" alt="javiiazagra" /></p>
-</br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javiiazagra&theme=react&hide_border=true&bg_color=141514&title_color=FF8000&icon_color=FF8000&hide_border&show_icons=true&locale=en" alt="javiiazagra" /></p>
-</br>
-<p  align="center">&nbsp;<img src="https://streak-stats.demolab.com/?user=JaviiAzagra&theme=dark&hide_border=false" alt="javiiazagra" /></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=javiiazagra&label=Profile%20views&color=0e75b6&style=flat" alt="javiiazagra" /> </p>
-<p align="left">
-</p>
+<details open>
+  <summary><h2>📈 GitHub Stats</h2></summary>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiazagra&theme=react&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&hide_border&show_icons=true&locale=en&layout=donut" alt="javiiazagra" /></p>
+    </br>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javiiazagra&theme=react&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=7F7F7F&icon_color=FFFFFF&hide_border&show_icons=true&locale=en" alt="javiiazagra" /></p>
+    </br>
+  <p  align="center">&nbsp;<img src="https://streak-stats.demolab.com/?user=JaviiAzagra&theme=dark&background=000000&ring=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&fire=FFFFFF&sideLabels=7F7F7F&dates=7F7F7F" alt="javiiazagra" /></p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=javiiazagra&label=Profile%20views&color=7F7F7F&style=flat" alt="javiiazagra" /> </p>
+</details>
 
 <details open> 
   <summary><h2>📙 Repositories</h2></summary>
   <p align="center">
-    <a href="https://github.com/JaviiAzagra/Github-Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=github-clone&theme=react&hide_border=true&bg_color=141514&title_color=FF8000&icon_color=FF8000&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/JaviiAzagra/Template-Node.js"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=Template-Node.js&theme=react&hide_border=true&bg_color=141514&title_color=FF8000&icon_color=FF8000&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/JaviiAzagra/javierazagra.com"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=javierazagra.com&theme=react&hide_border=true&bg_color=141514&title_color=FF8000&icon_color=FF8000&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/JaviiAzagra/Porsche-Supercup"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=Porsche-Supercup&theme=react&hide_border=true&bg_color=141514&title_color=FF8000&icon_color=FF8000&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/JaviiAzagra/Four-Corners"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=Four-Corners&theme=react&hide_border=true&bg_color=141514&title_color=FF8000&icon_color=FF8000&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/JaviiAzagra/BOT-DISCORD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=BOT-DISCORD&theme=react&hide_border=true&bg_color=141514&title_color=FF8000&icon_color=FF8000&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/JaviiAzagra/Github-Clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=github-clone&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/JaviiAzagra/Template-Node.js"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=Template-Node.js&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/JaviiAzagra/javierazagra.com"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=javierazagra.com&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/JaviiAzagra/Porsche-Supercup"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=Porsche-Supercup&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/JaviiAzagra/Four-Corners"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=Four-Corners&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/JaviiAzagra/BOT-DISCORD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JaviiAzagra&repo=BOT-DISCORD&theme=react&hide_border=true&bg_color=141514&title_color=FFFFFF&icon_color=FFFFFF&show_icons=true" alt="readme-typing-svg"></a>
   </p>
 </details>
