@@ -13,7 +13,7 @@
 - 🧰 I build with: `JavaScript` `React`, `Vite.js`, `Angular`, `Node` ...
 - ⚡ I enjoy travel, driving, sports, and programming :)
 - 📫 Reach out to me: javiazagra12@gmail.com
-
+</br>
 <details open>
   <summary><h2>📈 GitHub Stats</h2></summary>
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiiazagra&theme=react&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&hide_border&show_icons=true&locale=en&layout=donut" alt="javiiazagra" /></p>
