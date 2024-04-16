@@ -1,23 +1,27 @@
 ### Hey, I'm Javier Azagra 👋🏽 
 
-I´m a 21 years old developer based in Spain.
+Welcome to my GitHub profile! I´m a 21 years old developer based in Spain. I love working on challenging projects that allow me to learn and grow as a professional. Here you'll find a showcase of my projects and contributions across various technologies and development areas.
 
-- Checkout my [portfolio](https://javierazagra.com/) website!
-- Explore my [blog](https://tkcoder.vercel.app/) where I share insights and learnings.
-- Check out [VSCode Configuration](https://github.com/JaviiAzagra/VsCode-Settings) for development optimization.
-- Reach out to me: javiazagra12@gmail.com
+## 💻 About
 
-## 📦 Toolbox
+- 👨‍💻 Aspiring Full Stack Developer eager to learn and contribute.
+- 🌟 Passionate about technology and eager to explore new ideas.
+- 📚 Continuously learning and seeking opportunities to expand my knowledge.
+
+## 💻 Skills
 
 **Frontend Development:** `React` `Astro` `TypeScript` `Tailwind`
  
 **Version Control:** `Git` `GitLab`
 
-**Backend Development:** `Node.js` `Express.js` 
+**Backend Development:** `Node.js` `Express.js` `MongoDB`
 
 **Others:** `VmWare` `Active Directory` `Linuz` `Office` `SQL` `NoSQL`
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/javier-azagra-garc%C3%ADa/). 
- Reach out to me: javiazagra12@gmail.com
+Feel free to reach out if you'd like to collaborate on interesting projects or just chat about development!
+
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/javier-azagra-garc%C3%ADa/). 
+- 📧 Email: javiazagra12@gmail.com
+- 🌐 Website: https://javierazagra.com
