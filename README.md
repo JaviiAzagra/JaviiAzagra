@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I´m a 21 years old developer based in Spain. I lo
 
 **Backend Development:** `Node.js` `Express.js` `MongoDB`
 
-**Others:** `VmWare` `Active Directory` `Linuz` `Office` `SQL` `NoSQL`
+**Others:** `VmWare` `Active Directory` `Linux` `Office` `SQL` `NoSQL`
 
 ## 📫 Contact
 
